@@ -11,7 +11,10 @@ There are two types of python file there
  Here's some preview images 
  ![Screenshot (15)](https://user-images.githubusercontent.com/93634913/141010308-1a80cd20-f88e-447b-bc45-9abb8c4bd000.png)
  
- SignUp(Register) Form
+ SignUp(Register) window
  
  ![Screenshot (16)](https://user-images.githubusercontent.com/93634913/141011456-7b8275d1-d731-43be-b250-c2995fa211fe.png)
  
+ SignIn window
+ 
+ ![Screenshot (17)](https://user-images.githubusercontent.com/93634913/141011680-fa633ced-295e-4c05-b112-0aa48e6d5532.png)
